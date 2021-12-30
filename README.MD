@@ -14,3 +14,5 @@ Each components comes with wires and switches, so at the end of the day you end-
 My goal for this project was to have all the system controls and gauges at the same place, under the original ashtray cover. I wanted also something that was easily serviceable. For example if I need to remove a sensor, I should be as easy as any other factory components.
 
 There is two 3D printed components, one for the main control board and the other one for the head unit, in place of the ashtray. The parts were printed in ASA since it can support high and freezing temperature without deforming.
+
+![Ashtray](PICTURES/IMG_20210531_170619.jpg)
