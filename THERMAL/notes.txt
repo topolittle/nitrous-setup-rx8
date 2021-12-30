@@ -1,0 +1,11 @@
+Thermal managment:
+Power to dissipate inside the enclosure: 200mA * 12V = 2.4W
+Surface area of the enclosue: 0.4 ft-sqr
+Watt per square foot: 6
+Temperature rise: 15.5C (approx)
+Expected max ambiant: 40C, so it gives us a max temperature of 55.5C inside the case,
+just below of the glass transition temperature of the PLA which is 65C. ABS appears more suited for
+this job since its glass transition temperature is around 105C.
+
+Reference: https://safe.nrao.edu/wiki/pub/CICADA/GreenBankSpectrometer/Hoffman_Heat_Dissipation_Document.pdf
+
